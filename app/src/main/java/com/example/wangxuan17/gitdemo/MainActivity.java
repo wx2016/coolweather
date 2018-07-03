@@ -17,5 +17,13 @@ public class MainActivity extends AppCompatActivity {
         textView = (TextView)findViewById(R.id.text);
         btn2 = (Button)findViewById(R.id.btn2);
         btn3 = (Button)findViewById(R.id.btn3);
+        do1();
+        do4();
+    }
+    public void do1(){
+
+    }
+    public void do4(){
+
     }
 }
